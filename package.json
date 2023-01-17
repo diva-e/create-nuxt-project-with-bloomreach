@@ -1,0 +1,20 @@
+{
+  "name": "create-bloomreach-with-nuxt",
+  "version": "1.0.0",
+  "description": "generate a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS",
+  "bin": {
+    "bloomreach-with-nuxt": "cli.js"
+  },
+  "author": "Julius Lewin Vincent Schultz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:diva-e/create-nuxt-project-with-bloomreach.git"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "cross-spawn": "^7.0.3",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}
