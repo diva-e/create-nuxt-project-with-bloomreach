@@ -4,7 +4,7 @@
 ## Create project
 To set up this project from scratch, you can run the following command, where 'projectname' can be replaced with your local project name
 ```
-npx bloomreach-with-nuxt projectname
+npx create-bloomreach-with-nuxt projectname
 ```
 
 This repository provides a template for Nuxt.js web projects containing content to be generated from the Bloomreach CMS.
